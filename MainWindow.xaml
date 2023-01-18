@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Orbit"
         mc:Ignorable="d"
-        Title="MainWindow" Height="1000" Width="1000" WindowState="Maximized" WindowStartupLocation="Manual"
+        Title="Orbit" Height="1000" Width="1000" WindowState="Maximized" WindowStartupLocation="Manual"
         >
 
     <Window.DataContext>
